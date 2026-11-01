@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UrusSewa</string>
+    <string name="widget_description">Status pembayaran sewa rumah bulan semasa dan baki tunggakan unit.</string>
+</resources>

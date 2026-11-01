@@ -1,0 +1,6 @@
+{
+  "name": "UrusSewa",
+  "description": "Aplikasi pengurusan hartanah sewa pintar untuk tuan rumah dengan jejak sewa automatik, OCR imbasan resit, analisis kewangan, notifikasi tertunggak & WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
